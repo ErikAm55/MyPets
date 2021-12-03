@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/aFav"
+        android:icon="@drawable/ic_baseline_favorite"
+        android:title="@string/favoritos"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/eShared"
+        android:icon="@drawable/ic_baseline_share"
+        android:title="@string/compartilhar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/eHome"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="@string/home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/eAccount"
+        android:icon="@drawable/ic_baseline_email"
+        android:title="@string/conta"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/eHelp"
+        android:icon="@drawable/ic_baseline_help"
+        android:title="@string/ajuda"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/eSettings"
+        android:icon="@drawable/ic_baseline_settings"
+        android:title="@string/configura_es"
+        app:showAsAction="always" />
+
+</menu>

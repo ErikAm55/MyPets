@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPets</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="home">Home</string>
+    <string name="conta">Conta</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="configura_es">Configurações</string>
+</resources>
